@@ -62,7 +62,7 @@
 
 >>>     if(true)
     
->> ##一个Tab或者四个空格就可以标识一段代码
+>> ## 一个Tab或者四个空格就可以标识一段代码
 
 >>> use the `print()` function
 
